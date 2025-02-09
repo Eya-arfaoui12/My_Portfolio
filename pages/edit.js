@@ -192,12 +192,12 @@ const Edit = () => {
             >
               Social
             </Button>
-            <Button
+            {/* <Button
               onClick={() => setCurrentTabs("RESUME")}
               type={currentTabs === "RESUME" && "primary"}
             >
               Resume
-            </Button>
+            </Button> */}
           </div>
         </div>
         {/* HEADER */}
